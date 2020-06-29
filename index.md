@@ -9,3 +9,5 @@ Herr Rossi italienisch Signor Rossi ist eine Trickfilmfigur des italienischen Tr
 Mr.Rossi said:
 > Gaston
 > Glück
+
+<img src="https://upload.wikimedia.org/wikipedia/en/4/46/Signor_Rossi.jpg"/>
